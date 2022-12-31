@@ -1,0 +1,9 @@
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\bin\Debug\WinBlur.dll.config
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\bin\Debug\WinBlur.dll
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\bin\Debug\WinBlur.pdb
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\WinBlur.csproj.AssemblyReference.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\WinBlur.Properties.Resources.resources
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\WinBlur.csproj.GenerateResource.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\WinBlur.csproj.CoreCompileInputs.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\WinBlur.dll
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\WinBlur.pdb

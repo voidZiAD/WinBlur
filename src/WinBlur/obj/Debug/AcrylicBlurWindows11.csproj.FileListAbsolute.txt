@@ -1,0 +1,11 @@
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.csproj.AssemblyReference.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.csproj.SuggestedBindingRedirects.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.Form1.resources
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.csproj.GenerateResource.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.csproj.CoreCompileInputs.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.Properties.Resources.resources
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\bin\Debug\AcrylicBlurWindows11.exe.config
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\bin\Debug\AcrylicBlurWindows11.exe
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\bin\Debug\AcrylicBlurWindows11.pdb
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.exe
+C:\Users\pronn\OneDrive\Desktop\Acrylic\AcrylicBlurWindows11\obj\Debug\AcrylicBlurWindows11.pdb
