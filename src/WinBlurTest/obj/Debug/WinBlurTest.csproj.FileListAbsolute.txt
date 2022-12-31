@@ -1,0 +1,15 @@
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.csproj.AssemblyReference.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.Form1.resources
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.Properties.Resources.resources
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.csproj.GenerateResource.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.csproj.CoreCompileInputs.cache
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\bin\Debug\WinBlurTest.exe.config
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\bin\Debug\WinBlurTest.exe
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\bin\Debug\WinBlurTest.pdb
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\bin\Debug\WinBlur.dll
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\bin\Debug\WinBlur.pdb
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\bin\Debug\WinBlur.dll.config
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.csproj.CopyComplete
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.exe
+C:\Users\pronn\OneDrive\Desktop\Acrylic\WinBlurTest\obj\Debug\WinBlurTest.pdb
