@@ -32,7 +32,7 @@ SetBlurStyle(cntrl: this, blurType: BlurType.Acrylic, designMode: Mode.DarkMode)
 ```
 
 There you have it!
-Your form now supports & uses **WinBlur**.
+Your project now supports & uses **WinBlur**.
 
 ![image](https://user-images.githubusercontent.com/84229419/210150565-e05c47d0-7a63-4381-8cb2-5ba9ed278ffa.png)
 
