@@ -4,7 +4,7 @@ WinBlur is a C#, VB, C++ .NET Library that allows developers to use modern blur 
 
 **Getting Started: __3 easy steps__ to use WinBlur.**
 
-- **Step 1.** Install "WinBlur" from NuGET.
+- **Step 1.** Install `WinBlur` from NuGET.
 
 ```
 Install-Package WinBlur
