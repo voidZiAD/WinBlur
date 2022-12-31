@@ -17,7 +17,7 @@ using WinBlur;
 using static WinBlur.UI;
 ```
 
-- **Step 3.** Create the `Form_Load` event, or head over to the form constructor and add the following code:
+- **Step 3.** If **you are not** using the `None` FormBorderStyle, then create the `Form_Load` event, or head over to the form constructor and add the following code:
 
 ```cs
 
@@ -31,6 +31,8 @@ using static WinBlur.UI;
 
 SetBlurStyle(cntrl: this, blurType: BlurType.Acrylic, designMode: Mode.DarkMode);
 ```
+
+However, if **you are** using the `None` FormBorderStyle, then create the `Form_Shown` event, and add the same code that is shown on top of this text.
 
 There you have it!
 Your project now supports & uses **WinBlur**.
