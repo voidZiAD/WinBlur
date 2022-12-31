@@ -32,7 +32,7 @@ using static WinBlur.UI;
 SetBlurStyle(cntrl: this, blurType: BlurType.Acrylic, designMode: Mode.DarkMode);
 ```
 
-However, if **you are** using the `None` FormBorderStyle, then create the `Form_Shown` event, and add the same code that is shown on top of this text.
+- ⚠️**WARNING:** If **you are** using the `None` FormBorderStyle, then create the `Form_Shown` event instead, and add the same code that is shown on top of this text.
 
 There you have it!
 Your project now supports & uses **WinBlur**.
