@@ -36,6 +36,9 @@ SetBlurStyle(cntrl: this, blurType: BlurType.Acrylic, designMode: Mode.DarkMode)
 
 - 📝**NOTE:** Using **WinBlur on Controls** is currently most likely not going to work, so this mainly just supports **Forms** right now.
 
+For `DarkMode`, please set your `Form.BackColor` to a Dark color, preferrably `Color.Black`.
+For `LightMode`, please set your `Form.BackColor` to a Light color/White color, preferrably `Color.White`.
+
 There you have it!
 Your project now supports & uses **WinBlur**.
 
