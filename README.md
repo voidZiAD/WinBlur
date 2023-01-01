@@ -34,6 +34,8 @@ SetBlurStyle(cntrl: this, blurType: BlurType.Acrylic, designMode: Mode.DarkMode)
 
 - ⚠️**WARNING:** If **you are** using the `None` FormBorderStyle, then create the `Form_Shown` event instead, and add the same code that is shown on top of this text.
 
+- 📝**NOTE:** Using **WinBlur on Controls** is currently most likely not going to work, so this mainly just supports **Forms** right now.
+
 There you have it!
 Your project now supports & uses **WinBlur**.
 
