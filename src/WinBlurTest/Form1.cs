@@ -1,14 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using WinBlur;
-using static WinBlur.UI;
 
 namespace WinBlurTest
 {
@@ -18,12 +10,10 @@ namespace WinBlurTest
         {
             InitializeComponent();
         }
-
+        
         private void Form1_Load(object sender, EventArgs e)
         {
-
-            SetBlurStyle(cntrl: this, blurType: BlurType.Acrylic, designMode: Mode.DarkMode);
-
+            UI.SetBlurStyle(cntrl: this, blurType: UI.BlurType.Mica, designMode: UI.Mode.DarkMode);
         }
     }
 }

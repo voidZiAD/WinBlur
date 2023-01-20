@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace WinBlur
 {
-	public class PInvoke
+	internal class PInvoke
 	{
 		public class ParameterTypes
 		{
@@ -17,11 +17,8 @@ namespace WinBlur
 			public struct MARGINS
 			{
 				public int cxLeftWidth;
-
 				public int cxRightWidth;
-
 				public int cyTopHeight;
-
 				public int cyBottomHeight;
 			}
 		}
@@ -29,19 +26,19 @@ namespace WinBlur
 		public class Methods
 		{
 			[DllImport("DwmApi.dll")]
-			public static extern int DwmExtendFrameIntoClientArea(IntPtr hwnd, ref PInvoke.ParameterTypes.MARGINS pMarInset);
+			public static extern int DwmExtendFrameIntoClientArea(IntPtr hwnd, ref ParameterTypes.MARGINS pMarInset);
 
 			[DllImport("dwmapi.dll")]
-			public static extern int DwmSetWindowAttribute(IntPtr hwnd, PInvoke.ParameterTypes.DWMWINDOWATTRIBUTE dwAttribute, ref int pvAttribute, int cbAttribute);
+			public static extern int DwmSetWindowAttribute(IntPtr hwnd, ParameterTypes.DWMWINDOWATTRIBUTE dwAttribute, ref int pvAttribute, int cbAttribute);
 
-			public static int ExtendFrame(IntPtr hwnd, PInvoke.ParameterTypes.MARGINS margins)
+			public static int ExtendFrame(IntPtr hwnd, ParameterTypes.MARGINS margins)
 			{
-				return PInvoke.Methods.DwmExtendFrameIntoClientArea(hwnd, ref margins);
+				return DwmExtendFrameIntoClientArea(hwnd, ref margins);
 			}
 
-			public static int SetWindowAttribute(IntPtr hwnd, PInvoke.ParameterTypes.DWMWINDOWATTRIBUTE attribute, int parameter)
+			public static int SetWindowAttribute(IntPtr hwnd, ParameterTypes.DWMWINDOWATTRIBUTE attribute, int parameter)
 			{
-				return PInvoke.Methods.DwmSetWindowAttribute(hwnd, attribute, ref parameter, Marshal.SizeOf<int>());
+				return DwmSetWindowAttribute(hwnd, attribute, ref parameter, Marshal.SizeOf<int>());
 			}
 		}
 	}
