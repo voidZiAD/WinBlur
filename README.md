@@ -1,6 +1,6 @@
 ![ipiccy_image (2)](https://user-images.githubusercontent.com/84229419/210152610-2e2dcac6-a9de-4b8d-97fd-c0b16340cf95.jpg)
 # 🪟 WinBlur (Windows 10 & Above)
-WinBlur is a C#, VB, C++ .NET Library that allows developers to use modern blur types on their forms, (and maybe) controls.
+WinBlur is a C#, VB, C++ .NET Library that allows developers to use modern blur types on their forms, and (maybe) controls.
 
 **Getting Started: __3 easy steps__ to use WinBlur.**
 
